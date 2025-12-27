@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+<img width="1892" height="836" alt="Screenshot 2025-12-27 102153" src="https://github.com/user-attachments/assets/f37ed8e6-c57b-4507-9a82-9f7f5f2af174" />
+<img width="1914" height="847" alt="Screenshot 2025-12-27 102221" src="https://github.com/user-attachments/assets/86215601-5ae2-46cd-af6f-88c12e1f0fa0" />
+<img width="1916" height="859" alt="Screenshot 2025-12-27 102243" src="https://github.com/user-attachments/assets/f5273334-2f67-4ce6-9204-737b044f2a7a" />
 
-### Name:
-### Register Number:
+### Name:Renita Ireen G
+### Register Number:25008430
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
